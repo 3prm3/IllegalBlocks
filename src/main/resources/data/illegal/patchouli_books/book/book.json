@@ -1,6 +1,7 @@
 {
     "name": "Book of Illegal Blocks",
-    "landing_text": "LANDING TEXT",
+    "landing_text": "Welcome to the Book of Illegal Blocks",
     "version": 1
-    "book_texture": "illegal:textures/placeholder.png"
+    "book_texture": "patchouli:textures/gui/book_gray.png"
+    "model": "patchouli:book_gray"
 }
